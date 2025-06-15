@@ -1,18 +1,23 @@
-## Finance Tracker
+# Finance Tracker
 A simple Finance Tracker web application built with:
 
-### Features
+### Live Project 
+```
+https://finance-tracker-nine-fawn.vercel.app/
+```
+
+## Features
 - Add Income & Expenses
 - View current balance
 - Delete transactions
 
-### Tech Stack 
+## Tech Stack 
 - Library - React
 - Language - TypeScript
 - Styling - Tailwind CSS
 - State Management - Redux Toolkit
 
-### Folder Structure 
+## Folder Structure 
 ```
 src/
 │
@@ -28,12 +33,20 @@ src/
 ├── App.tsx
 ```
 
-### Installation & Setup
+## Installation & Setup
+
+### Clone the Repository
 ```
-- Clone the Repository:
-- cd redux-assignment
-- Install Dependencies: npm install
-- Start Development Server: npm run dev
+https://github.com/Sri-Akshat5/Finance-Tracker.git
+cd redux-assignment
+```
+### Install Dependencies
+```
+npm install
+```
+### Start Development Server 
+```
+npm run dev
 ```
 
 
