@@ -1,7 +1,6 @@
 import { createSlice, type PayloadAction, createAsyncThunk } from "@reduxjs/toolkit";
 import type { Transaction, TransactionState } from "./transactionTypes";
 
-// Async Thunk to simulate API call
 export const fetchTransactions = createAsyncThunk(
   "transactions/fetchTransactions",
   async () => {
